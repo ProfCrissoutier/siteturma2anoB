@@ -1,7 +1,23 @@
-header{background-color:#383D58;color: #f0f8ff
-    ;}
+*{ margin: 0;
+    padding: 0;
 
+}
+.cabeçalho {background-color:#66cc74;
+    color: #3c10db;
+    display: flex;
+justify-content: space-around;
+align-items: center;
+padding:  24px 0;
 
+}
 
+.cabeçalho-imagem{ width: 10%;}
+
+.cabeçalho-lista-item{ 
+    display: inline-block;
+margin: 0 16px;
+font-size: 32px; 
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 
     

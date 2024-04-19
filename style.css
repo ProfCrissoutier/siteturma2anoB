@@ -20,4 +20,22 @@ font-size: 32px;
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+.escola-imagem { width: 30%;
+
+  }  
+.escola {
+background-image: linear-gradient(#0b5db9, #78acdd); 
+color: white;
+display: flex; 
+justify-content: center;
+align-items: center;
+padding: 24px,0;}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+
     
